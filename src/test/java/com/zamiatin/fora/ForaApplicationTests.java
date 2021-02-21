@@ -8,6 +8,7 @@ class ForaApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
